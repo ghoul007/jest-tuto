@@ -13,7 +13,8 @@
   "author": "Ahmed GHOUL",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.1.0"
+    "jest": "^24.1.0",
+    "puppeteer": "^1.12.2"
   },
   "dependencies": {
     "axios": "^0.18.0",
